@@ -2,7 +2,7 @@ package com.andersondev.gamelist.dto;
 
 import com.andersondev.gamelist.entities.Game;
 
-public class GameDTO {
+public class GameMinDTO {
 
 	private Long id;
 	private String title;	
@@ -11,12 +11,12 @@ public class GameDTO {
 	private String shortDescription;
 	
 	
-	public GameDTO() {
+	public GameMinDTO() {
 
 	}
 
 
-	public GameDTO(Game entity) {
+	public GameMinDTO(Game entity) {
 		
 		id = entity.getId();
 		title = entity.getTitle();
