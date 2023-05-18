@@ -11,6 +11,8 @@ Criando o Back-End de uma coleção de games em um treinamento intensivo de Java
 - <a href="#homologacao">Passos de Homologação</a>
 - <a href="#deploy">Passos de Deploy CI/CD</a>
 - <a href="#aprendizado">Aprendizado</a>
+- <a href="#contatos">Contatos</a>
+- <a href="#agradecimentos">Agradecimentos</a>
 
 ##   Linguagens Utilizadas
 
@@ -96,14 +98,14 @@ Homologação local
 
 * Passos Railway
 
-    1. Prover um servidor de banco de dados
+1. Prover um servidor de banco de dados
 
-    2. Criar a base de dados e seed
+2. Criar a base de dados e seed
 
-    3. Criar uma aplicação Railway vinculada a um
+3. Criar uma aplicação Railway vinculada a um
 repositório Github
 
-    4. Configurar variáveis de ambiente
+4. Configurar variáveis de ambiente
     ```
         APP_PROFILE
         DB_URL (Formato:
@@ -144,6 +146,24 @@ repositório Github
     • Classe de associação, embedded id
     • Consultas SQL no Spring Data JPA
     • Projections(EX: Busca de games por lista de games)
+
+
+
+## Contatos
+
+* Links    
+<a href= "https://www.linkedin.com/in/anderson-rocha-228231222/">Linkedin : Anderson</a>
+
+
+
+## Agradecimentos
+
+* Link DevSuperior, uma escola fantástica
+
+    <a href= "https://www.linkedin.com/school/devsuperior/">Escola DevSuperior</a>
+
+
+
 
 
 
